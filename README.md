@@ -148,4 +148,4 @@ MIT License - feel free to use, modify, and distribute.
 
 ---
 
-Made with Gemini AI
+Made by [Naseem Ansari](https://www.linkedin.com/in/naseem-ansari-25474b269/)
