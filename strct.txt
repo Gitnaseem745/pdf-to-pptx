@@ -1,0 +1,16 @@
+pdf-to-pptx/
+│
+├── input/
+│   └── slides.pdf
+│
+├── output/
+│   └── output.pptx
+│
+├── extractor/
+│   └── pdf_text_extractor.py
+│
+├── converter/
+│   └── pdf_to_pptx.py
+│
+├── requirements.txt
+└── README.md
